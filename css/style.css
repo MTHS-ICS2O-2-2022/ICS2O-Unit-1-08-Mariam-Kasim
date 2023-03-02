@@ -32,11 +32,16 @@
 
 .page-content {
   color: white;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 
 body {
   background-color: rgb(182 207 253);
+}
+
+
+img {
+  float: right;
 }
